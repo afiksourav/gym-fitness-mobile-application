@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Glutes",
+      "img": "assets/icons8-frisbee-96.png"
+    },
+    {
+      "title": "Abs",
+      "img": "assets/icons8-battle-ropes-96.png"
+    },
+    {
+      "title": "Legs",
+      "img": "assets/icons8-bench-press-96.png"
+    },
+    {
+      "title": "Legs",
+      "img": "assets/icons8-sit-ups-96.png"
+    },
+    {
+      "title": "Arms",
+      "img": "assets/icons8-strength-96.png"
+    },
+    {
+      "title": "Arms",
+      "img": "assets/icons8-weightlifting-96.png"
+    }
+  ]
